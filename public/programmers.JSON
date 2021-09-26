@@ -1,0 +1,130 @@
+[
+    {
+        "Name": "Mahabub Hasan",
+        "Role": "Programmer",
+        "Age": 24,
+        "Country": "Bangladesh",
+        "Salary": 80000,
+        "img": "./images/img-1.jpg"
+    },
+    {
+        "Name": "Tarek Rahman",
+        "Role": "Programmer",
+        "Age": 26,
+        "Country": "Bangladesh",
+        "Salary": 90000,
+        "img": "./images/img-2.jpg"
+    },
+    {
+        "Name": "Sayed Ala Moududi",
+        "Role": "Web Developer",
+        "Age": 23,
+        "Country": "Bangladesh",
+        "Salary": 65000,
+        "img": "./images/img-3.jpg"
+    },
+    {
+        "Name": "Zarif Rahman",
+        "Role": "DevOps Developer",
+        "Age": 28,
+        "Country": "Bangladesh",
+        "Salary": 80000,
+        "img": "./images/img-4.jpg"
+    },
+    {
+        "Name": "Zahin Malik",
+        "Role": "Front-end Developer",
+        "Age": 20,
+        "Country": "Bangladesh",
+        "Salary": 60000,
+        "img": "./images/img-5.jpg"
+    },
+    {
+        "Name": "Emdadul Haque",
+        "Role": "Front-end Developer",
+        "Age": 25,
+        "Country": "Bangladesh",
+        "Salary": 55000,
+        "img": "./images/img-6.jpg"
+    },
+    {
+        "Name": "Sajib Surzo",
+        "Role": "Back-end Developer",
+        "Age": 23,
+        "Country": "Bangladesh",
+        "Salary": 65000,
+        "img": "./images/img-7.jpg"
+    },
+    {
+        "Name": "Akib Hasan",
+        "Role": "Full Stack Developer",
+        "Age": 21,
+        "Country": "Bangladesh",
+        "Salary": 110000,
+        "img": "./images/img-8.jpg"
+    },
+    {
+        "Name": "Eklachur Rahman",
+        "Role": "Software Architect",
+        "Age": 26,
+        "Country": "Bangladesh",
+        "Salary": 75000,
+        "img": "./images/img-9.jpg"
+    },
+    {
+        "Name": "Shaikat Hossain",
+        "Role": "System Engineer",
+        "Age": 19,
+        "Country": "Bangladesh",
+        "Salary": 70000,
+        "img": "./images/img-10.jpg"
+    },
+    {
+        "Name": "Maruf Rahman",
+        "Role": "Full Stack Developer",
+        "Age": 32,
+        "Country": "Bangladesh",
+        "Salary": 120000,
+        "img": "./images/img-11.jpg"
+    },
+    {
+        "Name": "Fardin Jisun",
+        "Role": "System Engineer",
+        "Age": 22,
+        "Country": "Bangladesh",
+        "Salary": 35000,
+        "img": "./images/img-12.jpg"
+    },
+    {
+        "Name": "Sk Saif",
+        "Role": "DevOps Developer",
+        "Age": 24,
+        "Country": "Bangladesh",
+        "Salary": 55000,
+        "img": "./images/img-13.jpg"
+    },
+    {
+        "Name": "Arafat Rahman",
+        "Role": "(Software) Engineer",
+        "Age": 24,
+        "Country": "Bangladesh",
+        "Salary": 450000,
+        "img": "./images/img-14.jpg"
+    },
+    {
+        "Name": "Shamim Reza",
+        "Role": "(Software) Developer",
+        "Age": 23,
+        "Country": "Bangladesh",
+        "Salary": 50000,
+        "img": "./images/img-15.jpg"
+    },
+    {
+        "Name": "Shahadat Hossain",
+        "Role": "(Software) Developer",
+        "Age": 35,
+        "Country": "Bangladesh",
+        "Salary": 60000,
+        "img": "./images/img-16.jpg"
+    }
+]
